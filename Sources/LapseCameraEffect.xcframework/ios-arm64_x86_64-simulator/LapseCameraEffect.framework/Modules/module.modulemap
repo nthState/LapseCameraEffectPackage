@@ -1,0 +1,11 @@
+framework module LapseCameraEffect {
+  umbrella header "LapseCameraEffect.h"
+
+  export *
+  module * { export * }
+}
+
+module LapseCameraEffect.Swift {
+    header "LapseCameraEffect-Swift.h"
+    requires objc
+}

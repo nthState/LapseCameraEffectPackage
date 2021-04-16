@@ -1,0 +1,35 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)
+// swift-module-flags: -target arm64-apple-ios13.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name LapseCameraEffect
+import AVFoundation
+import CoreMedia
+import Foundation
+@_exported import LapseCameraEffect
+import Metal
+import MetalKit
+import MetalPerformanceShaders
+import Swift
+public struct Aberration {
+  public let red: Swift.Int
+  public let green: Swift.Int
+  public let blue: Swift.Int
+  public init(red: Swift.Int, green: Swift.Int, blue: Swift.Int)
+}
+public struct EffectConfiguration {
+  public let aberration: LapseCameraEffect.Aberration
+  public let blur: Swift.Float
+  public let distortion: Swift.Float
+  public init(aberration: LapseCameraEffect.Aberration, blur: Swift.Float, distortion: Swift.Float)
+}
+public class DistortEffect {
+  public var isPrepared: Swift.Bool
+  public init() throws
+  @objc deinit
+}
+extension DistortEffect : LapseCameraEffect.Effect {
+  public func prepare(with formatDescription: CoreMedia.CMFormatDescription, outputRetainedBufferCountHint: Swift.Int)
+  public func apply(pixelBuffer: CoreVideo.CVPixelBuffer, with configuration: LapseCameraEffect.EffectConfiguration) -> CoreVideo.CVPixelBuffer?
+}
+public protocol Effect {
+  func apply(pixelBuffer: CoreVideo.CVPixelBuffer, with configuration: LapseCameraEffect.EffectConfiguration) -> CoreVideo.CVPixelBuffer?
+}
