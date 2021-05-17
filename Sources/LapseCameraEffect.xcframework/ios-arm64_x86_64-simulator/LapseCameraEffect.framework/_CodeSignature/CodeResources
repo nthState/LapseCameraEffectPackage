@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/LapseCameraEffect-Swift.h</key>
 		<data>
-		vrFcG9l3fQrBFFv1z9WiD8omwl8=
+		ItrjPJ9qAex1dsLA3iDlDbPQocI=
 		</data>
 		<key>Headers/LapseCameraEffect.h</key>
 		<data>
@@ -14,55 +14,55 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		uzXBmq3BEst6xD6inu3cL52kDUw=
+		LOYftDH1gbHfZIKMSYs1Ocw2r34=
 		</data>
 		<key>Modules/LapseCameraEffect.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		E6kU5+GFnoW02vc2WiqOko4YENI=
+		cQaHHkZFDPfIKx/U6uUNRA7lmNQ=
 		</data>
 		<key>Modules/LapseCameraEffect.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		vc+AfR36tCBJriyBUZK5y9uBcOU=
+		ll6Ru2pDfdsasoJLTrkT9qic5RI=
 		</data>
 		<key>Modules/LapseCameraEffect.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Shr/yIuxQuXw9I7BHFb9JH/Djes=
+		lZ8vdjOEUCizqZjtQMtQiuOg0TQ=
 		</data>
 		<key>Modules/LapseCameraEffect.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		E6kU5+GFnoW02vc2WiqOko4YENI=
+		cQaHHkZFDPfIKx/U6uUNRA7lmNQ=
 		</data>
 		<key>Modules/LapseCameraEffect.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		vc+AfR36tCBJriyBUZK5y9uBcOU=
+		ll6Ru2pDfdsasoJLTrkT9qic5RI=
 		</data>
 		<key>Modules/LapseCameraEffect.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		Shr/yIuxQuXw9I7BHFb9JH/Djes=
+		lZ8vdjOEUCizqZjtQMtQiuOg0TQ=
 		</data>
 		<key>Modules/LapseCameraEffect.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		xUkEHG48NTs6xqmR31ufSILPmAc=
+		rN9EEmuSSkCYyG09VLRS4gu9eks=
 		</data>
 		<key>Modules/LapseCameraEffect.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		/CfhM3YxYpsw+durYBSmAov3xto=
+		T6du//nQKkEtwBZVz/LRc08DGiI=
 		</data>
 		<key>Modules/LapseCameraEffect.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		NVJV4o1xGGcAqK2mnaEEoZ+vtNE=
+		0tDWW1avJ0sbLlPZGrwAAJ/OwTs=
 		</data>
 		<key>Modules/LapseCameraEffect.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		xUkEHG48NTs6xqmR31ufSILPmAc=
+		rN9EEmuSSkCYyG09VLRS4gu9eks=
 		</data>
 		<key>Modules/LapseCameraEffect.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		/CfhM3YxYpsw+durYBSmAov3xto=
+		T6du//nQKkEtwBZVz/LRc08DGiI=
 		</data>
 		<key>Modules/LapseCameraEffect.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		NVJV4o1xGGcAqK2mnaEEoZ+vtNE=
+		0tDWW1avJ0sbLlPZGrwAAJ/OwTs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -70,11 +70,11 @@
 		</data>
 		<key>README.md</key>
 		<data>
-		ay4MtTQ/tlWtGOZ9TgacD6lfvmA=
+		egiAAMAu61JC0z22flsnlx/nlLQ=
 		</data>
 		<key>default.metallib</key>
 		<data>
-		0YO/hNV0EMxrgMi4yXiPpFClxN8=
+		SUG7bhZcUqZvMZa8YW/tZK2VarE=
 		</data>
 		<key>gl.testbench</key>
 		<data>
@@ -91,7 +91,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nNWh//tyuS8vwwFQkP7KS2kMLcot/3nvg9GuPDad54k=
+			DD90No+1sbXg5lJBGfo+bLTAJgcGn24+q6cvpYHCsbk=
 			</data>
 		</dict>
 		<key>Headers/LapseCameraEffect.h</key>
@@ -105,84 +105,84 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			v8hMp7ut3kUdJNsNZhaD4F0D0AEM4vQwY8XrkZmMJsk=
+			ZQlzKrnuoxS6VxuWQY5u03q+F+ADhL4t6hlatZbuUUA=
 			</data>
 		</dict>
 		<key>Modules/LapseCameraEffect.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			H9WJaXHRE88FVZMEkXFm3QdZ5wZTcGRC7E+EoOjJNMg=
+			nEqMnt3a9haVFgbOJke4xWOvpXdjMvotO7NmYzULpdI=
 			</data>
 		</dict>
 		<key>Modules/LapseCameraEffect.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vzmqcJsh3rAbfp16mwzBiQ/olyboKMDXDOL5/tf7gDo=
+			elHO3Qs683+Gk7lFB/Qyuvl+lBxPTgHy+5TrgbW0OqQ=
 			</data>
 		</dict>
 		<key>Modules/LapseCameraEffect.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			v8hMp7ut3kUdJNsNZhaD4F0D0AEM4vQwY8XrkZmMJsk=
+			ZQlzKrnuoxS6VxuWQY5u03q+F+ADhL4t6hlatZbuUUA=
 			</data>
 		</dict>
 		<key>Modules/LapseCameraEffect.swiftmodule/arm64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			H9WJaXHRE88FVZMEkXFm3QdZ5wZTcGRC7E+EoOjJNMg=
+			nEqMnt3a9haVFgbOJke4xWOvpXdjMvotO7NmYzULpdI=
 			</data>
 		</dict>
 		<key>Modules/LapseCameraEffect.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vzmqcJsh3rAbfp16mwzBiQ/olyboKMDXDOL5/tf7gDo=
+			elHO3Qs683+Gk7lFB/Qyuvl+lBxPTgHy+5TrgbW0OqQ=
 			</data>
 		</dict>
 		<key>Modules/LapseCameraEffect.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ysb3urSL+/6fnth+ToUUdXT8HTP1jC6AklNPHALit8c=
+			tfT9Hzv0aU8d0cHgmziRSvL3UYWL5Wf4jqcHjr/85PU=
 			</data>
 		</dict>
 		<key>Modules/LapseCameraEffect.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			u0N/IC6V9VCN+PHnBMmwGzH65ntRu4QLhzyNzFluYbU=
+			E3zh2JOduqtQdTDugTWSDq39MnLMWyazjkpu9AWdBkQ=
 			</data>
 		</dict>
 		<key>Modules/LapseCameraEffect.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Kck9REJBDMpn/HQGfYAL8Fa5T+l+O+jP3DD+4BiukUI=
+			onN1eCFUhdMR/OkS3nqGaen6B+0SL8R1mGdUpt1U7TM=
 			</data>
 		</dict>
 		<key>Modules/LapseCameraEffect.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ysb3urSL+/6fnth+ToUUdXT8HTP1jC6AklNPHALit8c=
+			tfT9Hzv0aU8d0cHgmziRSvL3UYWL5Wf4jqcHjr/85PU=
 			</data>
 		</dict>
 		<key>Modules/LapseCameraEffect.swiftmodule/x86_64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			u0N/IC6V9VCN+PHnBMmwGzH65ntRu4QLhzyNzFluYbU=
+			E3zh2JOduqtQdTDugTWSDq39MnLMWyazjkpu9AWdBkQ=
 			</data>
 		</dict>
 		<key>Modules/LapseCameraEffect.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Kck9REJBDMpn/HQGfYAL8Fa5T+l+O+jP3DD+4BiukUI=
+			onN1eCFUhdMR/OkS3nqGaen6B+0SL8R1mGdUpt1U7TM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -196,14 +196,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ooPCp2Vpotlmg1IyCC17gVEHh64E+1KiFn2d9XL6p90=
+			qkQRS6yiF+pbt5oax7tynYXsEh1XBwmn6/eDyLBnaNs=
 			</data>
 		</dict>
 		<key>default.metallib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uDISFOCZO0/jePFfakyXfb987p4wXwEs3aQhMm1ePh8=
+			mX2h6wWkw6QaChGjuqRrc+csMLI8JZm3zOtgdjVIGyc=
 			</data>
 		</dict>
 		<key>gl.testbench</key>

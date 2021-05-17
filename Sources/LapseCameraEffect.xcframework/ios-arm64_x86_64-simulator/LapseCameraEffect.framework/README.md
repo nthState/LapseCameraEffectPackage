@@ -3,17 +3,17 @@
 Usage:
 
 ```
-let effect: LapseCameraEffect
+let effect: DistortEffect
 
 init() {
-  filter = LapseCameraEffect()
+  effect = DistortEffect()
 }
 
-func run() {
+func run(pixelBuffer: CVPixelBuffer) {
 
-  let config = Configuration(aberration: Aberration(red: 0.0, green: 0.0, blue: 0.0), blur: Blur(radius: 0.0, type: .gaussian), distortion: 0)
+  let config = EffectConfiguration(aberration: Aberration(red: 0.0, green: 0.0, blue: 0.0), blur: 0.0, distortion: 0.0)
 
-  effect.apply(src: MTLTexture, dst: inout MTLTexture, with: config) -> TimeInterval
+  let newPixelBuffer = effect.apply(pixelBuffer: pixelBuffer, with: config)
 
 }
 ```
