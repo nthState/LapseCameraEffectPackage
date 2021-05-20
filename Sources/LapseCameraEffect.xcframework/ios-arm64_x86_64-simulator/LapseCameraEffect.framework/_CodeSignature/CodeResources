@@ -26,7 +26,7 @@
 		</data>
 		<key>Modules/LapseCameraEffect.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		lZ8vdjOEUCizqZjtQMtQiuOg0TQ=
+		JZ5HzbU+Ppdiiy/GO+njVlexkxg=
 		</data>
 		<key>Modules/LapseCameraEffect.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/LapseCameraEffect.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		lZ8vdjOEUCizqZjtQMtQiuOg0TQ=
+		JZ5HzbU+Ppdiiy/GO+njVlexkxg=
 		</data>
 		<key>Modules/LapseCameraEffect.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Modules/LapseCameraEffect.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		0tDWW1avJ0sbLlPZGrwAAJ/OwTs=
+		07g8zIySf4dqXK6Utv4yFqOKngc=
 		</data>
 		<key>Modules/LapseCameraEffect.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Modules/LapseCameraEffect.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		0tDWW1avJ0sbLlPZGrwAAJ/OwTs=
+		07g8zIySf4dqXK6Utv4yFqOKngc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -119,7 +119,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			elHO3Qs683+Gk7lFB/Qyuvl+lBxPTgHy+5TrgbW0OqQ=
+			WNbCsMHAHuUElZgRy+BYyOLTuzZYZ0appLtZ/jbKAkc=
 			</data>
 		</dict>
 		<key>Modules/LapseCameraEffect.swiftmodule/arm64.swiftdoc</key>
@@ -140,7 +140,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			elHO3Qs683+Gk7lFB/Qyuvl+lBxPTgHy+5TrgbW0OqQ=
+			WNbCsMHAHuUElZgRy+BYyOLTuzZYZ0appLtZ/jbKAkc=
 			</data>
 		</dict>
 		<key>Modules/LapseCameraEffect.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -161,7 +161,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			onN1eCFUhdMR/OkS3nqGaen6B+0SL8R1mGdUpt1U7TM=
+			oNIgMmqJfPXB/xzOehIIaLGDC+I5e6FaU8gsikEiH8Y=
 			</data>
 		</dict>
 		<key>Modules/LapseCameraEffect.swiftmodule/x86_64.swiftdoc</key>
@@ -182,7 +182,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			onN1eCFUhdMR/OkS3nqGaen6B+0SL8R1mGdUpt1U7TM=
+			oNIgMmqJfPXB/xzOehIIaLGDC+I5e6FaU8gsikEiH8Y=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
