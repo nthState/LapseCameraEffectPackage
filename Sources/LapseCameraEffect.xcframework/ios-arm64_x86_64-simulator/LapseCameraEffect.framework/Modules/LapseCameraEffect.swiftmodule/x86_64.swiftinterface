@@ -17,9 +17,8 @@ public struct Aberration {
 }
 public struct EffectConfiguration {
   public let aberration: LapseCameraEffect.Aberration
-  public let blur: Swift.Float
   public let distortion: Swift.Float
-  public init(aberration: LapseCameraEffect.Aberration, blur: Swift.Float, distortion: Swift.Float)
+  public init(aberration: LapseCameraEffect.Aberration, distortion: Swift.Float)
 }
 public class DistortEffect {
   public var isPrepared: Swift.Bool
@@ -29,9 +28,7 @@ public class DistortEffect {
 extension DistortEffect : LapseCameraEffect.Effect {
   public func prepare(with formatDescription: CoreMedia.CMFormatDescription, outputRetainedBufferCountHint: Swift.Int)
   public func apply(pixelBuffer: CoreVideo.CVPixelBuffer, with configuration: LapseCameraEffect.EffectConfiguration) -> CoreVideo.CVPixelBuffer?
-  public func applyInPlace(pixelBuffer: inout CoreVideo.CVPixelBuffer, with configuration: LapseCameraEffect.EffectConfiguration)
 }
 public protocol Effect {
   func apply(pixelBuffer: CoreVideo.CVPixelBuffer, with configuration: LapseCameraEffect.EffectConfiguration) -> CoreVideo.CVPixelBuffer?
-  func applyInPlace(pixelBuffer: inout CoreVideo.CVPixelBuffer, with configuration: LapseCameraEffect.EffectConfiguration)
 }

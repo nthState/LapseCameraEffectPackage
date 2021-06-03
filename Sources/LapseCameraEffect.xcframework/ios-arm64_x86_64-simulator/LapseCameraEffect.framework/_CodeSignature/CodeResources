@@ -18,51 +18,51 @@
 		</data>
 		<key>Modules/LapseCameraEffect.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		cQaHHkZFDPfIKx/U6uUNRA7lmNQ=
+		wUj3f0Q2WdpGi+PCYQZp2+49HxQ=
 		</data>
 		<key>Modules/LapseCameraEffect.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		ll6Ru2pDfdsasoJLTrkT9qic5RI=
+		oT0zFMheca5dUQ0h941l/jflwrs=
 		</data>
 		<key>Modules/LapseCameraEffect.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		JZ5HzbU+Ppdiiy/GO+njVlexkxg=
+		M+ICvvD4vQThotWka7eV3r6cto4=
 		</data>
 		<key>Modules/LapseCameraEffect.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		cQaHHkZFDPfIKx/U6uUNRA7lmNQ=
+		wUj3f0Q2WdpGi+PCYQZp2+49HxQ=
 		</data>
 		<key>Modules/LapseCameraEffect.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		ll6Ru2pDfdsasoJLTrkT9qic5RI=
+		oT0zFMheca5dUQ0h941l/jflwrs=
 		</data>
 		<key>Modules/LapseCameraEffect.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		JZ5HzbU+Ppdiiy/GO+njVlexkxg=
+		M+ICvvD4vQThotWka7eV3r6cto4=
 		</data>
 		<key>Modules/LapseCameraEffect.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		rN9EEmuSSkCYyG09VLRS4gu9eks=
+		4x9TrGbLnS9PiR5NvBsP7067qOk=
 		</data>
 		<key>Modules/LapseCameraEffect.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		T6du//nQKkEtwBZVz/LRc08DGiI=
+		Z0EBVQFyamEfts2H6sH2eh2dCVo=
 		</data>
 		<key>Modules/LapseCameraEffect.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		07g8zIySf4dqXK6Utv4yFqOKngc=
+		/X+iuG221sp7CjlUboyBHVEENzg=
 		</data>
 		<key>Modules/LapseCameraEffect.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		rN9EEmuSSkCYyG09VLRS4gu9eks=
+		4x9TrGbLnS9PiR5NvBsP7067qOk=
 		</data>
 		<key>Modules/LapseCameraEffect.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		T6du//nQKkEtwBZVz/LRc08DGiI=
+		Z0EBVQFyamEfts2H6sH2eh2dCVo=
 		</data>
 		<key>Modules/LapseCameraEffect.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		07g8zIySf4dqXK6Utv4yFqOKngc=
+		/X+iuG221sp7CjlUboyBHVEENzg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -105,84 +105,84 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZQlzKrnuoxS6VxuWQY5u03q+F+ADhL4t6hlatZbuUUA=
+			kkb3tPOgHA7L+8cdjmDCUOHI5MDbX8N6QfeTv+PkCUE=
 			</data>
 		</dict>
 		<key>Modules/LapseCameraEffect.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nEqMnt3a9haVFgbOJke4xWOvpXdjMvotO7NmYzULpdI=
+			CLEgIMppAxFLU0m9hHLgb9tPrsSh0G3PCSSCmIaG0Y4=
 			</data>
 		</dict>
 		<key>Modules/LapseCameraEffect.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WNbCsMHAHuUElZgRy+BYyOLTuzZYZ0appLtZ/jbKAkc=
+			acajLQ2qITe+OnQ7gneoIF1M5fHuMTaH0g32gBw5Ouk=
 			</data>
 		</dict>
 		<key>Modules/LapseCameraEffect.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZQlzKrnuoxS6VxuWQY5u03q+F+ADhL4t6hlatZbuUUA=
+			kkb3tPOgHA7L+8cdjmDCUOHI5MDbX8N6QfeTv+PkCUE=
 			</data>
 		</dict>
 		<key>Modules/LapseCameraEffect.swiftmodule/arm64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nEqMnt3a9haVFgbOJke4xWOvpXdjMvotO7NmYzULpdI=
+			CLEgIMppAxFLU0m9hHLgb9tPrsSh0G3PCSSCmIaG0Y4=
 			</data>
 		</dict>
 		<key>Modules/LapseCameraEffect.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WNbCsMHAHuUElZgRy+BYyOLTuzZYZ0appLtZ/jbKAkc=
+			acajLQ2qITe+OnQ7gneoIF1M5fHuMTaH0g32gBw5Ouk=
 			</data>
 		</dict>
 		<key>Modules/LapseCameraEffect.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tfT9Hzv0aU8d0cHgmziRSvL3UYWL5Wf4jqcHjr/85PU=
+			mtgfqek7bghIZAXVDV18GcwP1cg6+LSJbo42D4419rU=
 			</data>
 		</dict>
 		<key>Modules/LapseCameraEffect.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			E3zh2JOduqtQdTDugTWSDq39MnLMWyazjkpu9AWdBkQ=
+			6sxQ2hQUTSZQXzkmCatzs6CKiKXSgM7fTFpUSLvFIZI=
 			</data>
 		</dict>
 		<key>Modules/LapseCameraEffect.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			oNIgMmqJfPXB/xzOehIIaLGDC+I5e6FaU8gsikEiH8Y=
+			cYNV9Uvh0ORItBjcd1gXtVgTuAMf2krn02/R13/tetE=
 			</data>
 		</dict>
 		<key>Modules/LapseCameraEffect.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tfT9Hzv0aU8d0cHgmziRSvL3UYWL5Wf4jqcHjr/85PU=
+			mtgfqek7bghIZAXVDV18GcwP1cg6+LSJbo42D4419rU=
 			</data>
 		</dict>
 		<key>Modules/LapseCameraEffect.swiftmodule/x86_64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			E3zh2JOduqtQdTDugTWSDq39MnLMWyazjkpu9AWdBkQ=
+			6sxQ2hQUTSZQXzkmCatzs6CKiKXSgM7fTFpUSLvFIZI=
 			</data>
 		</dict>
 		<key>Modules/LapseCameraEffect.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			oNIgMmqJfPXB/xzOehIIaLGDC+I5e6FaU8gsikEiH8Y=
+			cYNV9Uvh0ORItBjcd1gXtVgTuAMf2krn02/R13/tetE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

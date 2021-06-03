@@ -18,27 +18,27 @@
 		</data>
 		<key>Modules/LapseCameraEffect.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		H1l4WUITQNgD8fpQsfm6BfjYhlk=
+		Hm9kuDU2dpBkvnub8ZnCz69+/e4=
 		</data>
 		<key>Modules/LapseCameraEffect.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		2yFU1rSvSG61jdMTPJ0fst3LiEU=
+		9N33ZQXmcOc5M3ccZzrYR9Rt+bQ=
 		</data>
 		<key>Modules/LapseCameraEffect.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		R14M6bK6mlmVuGdNKxF4eArs6Mc=
+		HuzraM5LkjGhNlgNyRiZu1bKDdY=
 		</data>
 		<key>Modules/LapseCameraEffect.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		H1l4WUITQNgD8fpQsfm6BfjYhlk=
+		Hm9kuDU2dpBkvnub8ZnCz69+/e4=
 		</data>
 		<key>Modules/LapseCameraEffect.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		2yFU1rSvSG61jdMTPJ0fst3LiEU=
+		9N33ZQXmcOc5M3ccZzrYR9Rt+bQ=
 		</data>
 		<key>Modules/LapseCameraEffect.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		R14M6bK6mlmVuGdNKxF4eArs6Mc=
+		HuzraM5LkjGhNlgNyRiZu1bKDdY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -81,42 +81,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			HCNiirlN4lA7ePax5CmTv7b2Gb18I/YXOB4YJd8OYL4=
+			riEgXDW++QoYQKwKyAZf/HhLL+bGhGyeGA7Nzguhv1A=
 			</data>
 		</dict>
 		<key>Modules/LapseCameraEffect.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Qs8MtAfxKdEC4YqYWs6C/RrDi7fetds0DT733iajZNk=
+			J4F9afTHF9TRj7SzcCSgPirpyDWMWI3Y9lwJhdMaRKA=
 			</data>
 		</dict>
 		<key>Modules/LapseCameraEffect.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PMKAdwEEFON3XfERq6ks7SEJXMlHsJYBJy1n1jZnUU0=
+			eD0eLqI4EAtNZgOqHEcSNBpXU3r72rfVhvIIq4S4WAI=
 			</data>
 		</dict>
 		<key>Modules/LapseCameraEffect.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HCNiirlN4lA7ePax5CmTv7b2Gb18I/YXOB4YJd8OYL4=
+			riEgXDW++QoYQKwKyAZf/HhLL+bGhGyeGA7Nzguhv1A=
 			</data>
 		</dict>
 		<key>Modules/LapseCameraEffect.swiftmodule/arm64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Qs8MtAfxKdEC4YqYWs6C/RrDi7fetds0DT733iajZNk=
+			J4F9afTHF9TRj7SzcCSgPirpyDWMWI3Y9lwJhdMaRKA=
 			</data>
 		</dict>
 		<key>Modules/LapseCameraEffect.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PMKAdwEEFON3XfERq6ks7SEJXMlHsJYBJy1n1jZnUU0=
+			eD0eLqI4EAtNZgOqHEcSNBpXU3r72rfVhvIIq4S4WAI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
